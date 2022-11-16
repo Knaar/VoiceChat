@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EasyVoiceChat.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal_5_Projects\VoiceChat\Intermediate\Build\Win64\VoiceChatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal_5_Projects\VoiceChat\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\Module.EasyVoiceChat.cpp.obj"
+"E:\Unreal_5_Projects\VoiceChat\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\Module.EasyVoiceChat.gen.cpp.obj"
+"E:\Unreal_5_Projects\VoiceChat\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\Default.rc2.res"
+/OUT:"E:\Unreal_5_Projects\VoiceChat\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\UnrealEditor-EasyVoiceChat.lib"

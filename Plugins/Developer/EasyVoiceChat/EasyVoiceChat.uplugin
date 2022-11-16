@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3",
+	"FriendlyName": "Easy Voice Chat",
+	"Description": "Easy to integrate VOIP using blueprints.",
+	"Category": "Voice",
+	"CreatedBy": "313 Studios",
+	"CreatedByURL": "https://313-studios.com",
+	"DocsURL": "https://313-studios.com/wp-content/uploads/2019/08/VoiceChatDocumentation.pdf",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b204a1777cb34ff88bcc32bd9296c412",
+	"SupportURL": "support@313-studios.com",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EasyVoiceChat",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		}
+	]
+}

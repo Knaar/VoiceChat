@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EasyVoiceChat.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Bordunos\Downloads\VoiceChatZ.rar_pass_123\VoiceChatZ\Intermediate\Build\Win64\VoiceChatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Bordunos\Downloads\VoiceChatZ.rar_pass_123\VoiceChatZ\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\Module.EasyVoiceChat.cpp.obj"
+"C:\Users\Bordunos\Downloads\VoiceChatZ.rar_pass_123\VoiceChatZ\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\Module.EasyVoiceChat.gen.cpp.obj"
+"C:\Users\Bordunos\Downloads\VoiceChatZ.rar_pass_123\VoiceChatZ\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\Default.rc2.res"
+/OUT:"C:\Users\Bordunos\Downloads\VoiceChatZ.rar_pass_123\VoiceChatZ\Plugins\Developer\EasyVoiceChat\Intermediate\Build\Win64\UnrealEditor\Development\EasyVoiceChat\UnrealEditor-EasyVoiceChat.lib"

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyVoiceChat.cpp.obj": [
+			"EasyVoiceChat.cpp.obj",
+			"VoiceFunctionLibrary.cpp.obj",
+			"VoipAudioComponent.cpp.obj",
+			"VoipManagerComponent.cpp.obj"
+		],
+		"Module.EasyVoiceChat.gen.cpp.obj": [
+			"EasyVoiceChat.init.gen.cpp.obj",
+			"VoiceFunctionLibrary.gen.cpp.obj",
+			"VoipAudioComponent.gen.cpp.obj",
+			"VoipManagerComponent.gen.cpp.obj"
+		]
+	}
+}

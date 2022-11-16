@@ -1,0 +1,1191 @@
+﻿# Game English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2022-11-14 02:02\n"
+"PO-Revision-Date: 2022-11-14 02:02\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	03BADF984003F0E58655BDB66E75653C
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(2).EffectsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(2).EffectsCommands
+msgctxt ",03BADF984003F0E58655BDB66E75653C"
+msgid "sg.EffectsQuality 2"
+msgstr "sg.EffectsQuality 2"
+
+#. Key:	04B3FEA44F323FB4A7CB3DAD44E7BE22
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(3).AACommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(3).AACommands
+msgctxt ",04B3FEA44F323FB4A7CB3DAD44E7BE22"
+msgid "r.PostProcessAAQuality 3"
+msgstr "r.PostProcessAAQuality 3"
+
+#. Key:	06050CA24771B7B39844948E0D0841AB
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(0).FPSSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(0).FPSSettings
+msgctxt ",06050CA24771B7B39844948E0D0841AB"
+msgid "15Hz"
+msgstr "15Hz"
+
+#. Key:	07CF5BAA4798DD7FFBD943A9643B94AC
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(0).MainSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(0).MainSettings
+msgctxt ",07CF5BAA4798DD7FFBD943A9643B94AC"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	08A79EC743D3FA8CC14BC7AB3BD524CB
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_5.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",08A79EC743D3FA8CC14BC7AB3BD524CB"
+msgid "Mic Input Gain 1.00"
+msgstr "Mic Input Gain 1.00"
+
+#. Key:	08B2CE674860C10C86184395CEAF05BA
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",08B2CE674860C10C86184395CEAF05BA"
+msgid "Push to Talk (If Enabled): Caps Lock"
+msgstr "Push to Talk (If Enabled): Caps Lock"
+
+#. Key:	08C19A384491A5A18344E1B4E35E5721
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_797.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_797.Text
+msgctxt ",08C19A384491A5A18344E1B4E35E5721"
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
+#. Key:	09A527024788397B7AE31EBBAD8CBD38
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_355.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_355.Text
+msgctxt ",09A527024788397B7AE31EBBAD8CBD38"
+msgid "Level 01"
+msgstr "Level 01"
+
+#. Key:	0C13F5594E261628FD67738354B2FCB6
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1304.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1304.Text
+msgctxt ",0C13F5594E261628FD67738354B2FCB6"
+msgid "0,2"
+msgstr "0,2"
+
+#. Key:	0FAD46AA427A9D50C4A824AE5590C21B
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(2).FPSCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(2).FPSCommands
+msgctxt ",0FAD46AA427A9D50C4A824AE5590C21B"
+msgid "t.MaxFPS 60"
+msgstr "t.MaxFPS 60"
+
+#. Key:	10463A7146AF00D4919BCB8606A558BF
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock.Text
+msgctxt ",10463A7146AF00D4919BCB8606A558BF"
+msgid "Voice Volume Cont"
+msgstr "Voice Volume Cont"
+
+#. Key:	1072C49445CE85D923F7FE9766B8C35C
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_215.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_215.Text
+msgctxt ",1072C49445CE85D923F7FE9766B8C35C"
+msgid "Apply changes"
+msgstr "Apply changes"
+
+#. Key:	11AB82214BF3A4C47F9854A5EDF3A039
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(0).AACommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(0).AACommands
+msgctxt ",11AB82214BF3A4C47F9854A5EDF3A039"
+msgid "r.PostProcessAAQuality 0"
+msgstr "r.PostProcessAAQuality 0"
+
+#. Key:	14EEEA9E4D32E32E238283AF4EE919A6
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_370.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_370.Text
+msgctxt ",14EEEA9E4D32E32E238283AF4EE919A6"
+msgid "Music"
+msgstr "Music"
+
+#. Key:	1823DF464847A9430682C6AC5E462ED3
+#. SourceLocation:	/Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock.Text
+#: /Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",1823DF464847A9430682C6AC5E462ED3"
+msgid "Return"
+msgstr "Return"
+
+#. Key:	185766BF4F74E6EE4A6D6BAD27B6D602
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_215.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_215.Text
+msgctxt ",185766BF4F74E6EE4A6D6BAD27B6D602"
+msgid "Apply changes"
+msgstr "Apply changes"
+
+#. Key:	1BBD7CF94EE3A9BA7A1C5B92B01A8C94
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(1).AACommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(1).AACommands
+msgctxt ",1BBD7CF94EE3A9BA7A1C5B92B01A8C94"
+msgid "r.PostProcessAAQuality 1"
+msgstr "r.PostProcessAAQuality 1"
+
+#. Key:	1C569F6F4DD5CEED3C93D99A10B76C88
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(0).EffectsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(0).EffectsCommands
+msgctxt ",1C569F6F4DD5CEED3C93D99A10B76C88"
+msgid "sg.EffectsQuality 0"
+msgstr "sg.EffectsQuality 0"
+
+#. Key:	1CF7449041BF67A0B471CEB6EB0CB969
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(2).FPSSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(2).FPSSettings
+msgctxt ",1CF7449041BF67A0B471CEB6EB0CB969"
+msgid "60Hz"
+msgstr "60Hz"
+
+#. Key:	20743FF945E5419A5D91EE8E6C81F96B
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_916.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_916.Text
+msgctxt ",20743FF945E5419A5D91EE8E6C81F96B"
+msgid "%"
+msgstr "%"
+
+#. Key:	213A631C466915774DEB6EAEE2EEDDED
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_914.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_914.Text
+msgctxt ",213A631C466915774DEB6EAEE2EEDDED"
+msgid "Sounds Effects"
+msgstr "Sounds Effects"
+
+#. Key:	23AC09FF4C922D6126E47DBF66543736
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.ThreshodTB.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.ThreshodTB.Text
+msgctxt ",23AC09FF4C922D6126E47DBF66543736"
+msgid "0,02"
+msgstr "0,02"
+
+#. Key:	23F0E89A47FC531D31B249B138BBD9D2
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(1).GraphicsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(1).GraphicsCommands
+msgctxt ",23F0E89A47FC531D31B249B138BBD9D2"
+msgid "r.ScreenPercentage 50"
+msgstr "r.ScreenPercentage 50"
+
+#. Key:	25A84757448062C8367AB9B4646C9F1F
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_3.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",25A84757448062C8367AB9B4646C9F1F"
+msgid "Toggle Loopback: L"
+msgstr "Toggle Loopback: L"
+
+#. Key:	27EAFCA74D3948CDD0EEDA9F40FC728A
+#. SourceLocation:	/Game/Voice/SimpleOverlay.SimpleOverlay_C:WidgetTree.TextBlock.Text
+#: /Game/Voice/SimpleOverlay.SimpleOverlay_C:WidgetTree.TextBlock.Text
+msgctxt ",27EAFCA74D3948CDD0EEDA9F40FC728A"
+msgid "Recieved Audio Level"
+msgstr "Recieved Audio Level"
+
+#. Key:	2831BDE646109D61F75426AE13EA57E3
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(2).GraphicsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(2).GraphicsCommands
+msgctxt ",2831BDE646109D61F75426AE13EA57E3"
+msgid "r.ScreenPercentage 75"
+msgstr "r.ScreenPercentage 75"
+
+#. Key:	29240F93458BCC03C341D290D7E1B204
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_793.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_793.Text
+msgctxt ",29240F93458BCC03C341D290D7E1B204"
+msgid "Shadows"
+msgstr "Shadows"
+
+#. Key:	2B2994F449535DC86EF3BF93995B9B7B
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_370.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_370.Text
+msgctxt ",2B2994F449535DC86EF3BF93995B9B7B"
+msgid "Music"
+msgstr "Music"
+
+#. Key:	2C229C214A58313088369FA6B0C1FDB4
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_0.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",2C229C214A58313088369FA6B0C1FDB4"
+msgid "Singleplayer"
+msgstr "Singleplayer"
+
+#. Key:	2C45F6094D9C90015B3F7A8D66936A7E
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(3).FPSCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(3).FPSCommands
+msgctxt ",2C45F6094D9C90015B3F7A8D66936A7E"
+msgid "t.MaxFPS 144"
+msgstr "t.MaxFPS 144"
+
+#. Key:	2FC882D04B6882829546E687C1AF7BF5
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_914.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_914.Text
+msgctxt ",2FC882D04B6882829546E687C1AF7BF5"
+msgid "Sounds Effects"
+msgstr "Sounds Effects"
+
+#. Key:	31B89CE9404516991F0F8B875715FA6A
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_3.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",31B89CE9404516991F0F8B875715FA6A"
+msgid "667"
+msgstr "667"
+
+#. Key:	367BC7D64C6A6048C36E17BFA96ACC49
+#. SourceLocation:	/Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",367BC7D64C6A6048C36E17BFA96ACC49"
+msgid "Select Char"
+msgstr "Select Char"
+
+#. Key:	37CD2F49488E479C0476C69094FABCA9
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(2).FPSCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(2).FPSCommands
+msgctxt ",37CD2F49488E479C0476C69094FABCA9"
+msgid "t.MaxFPS 60"
+msgstr "t.MaxFPS 60"
+
+#. Key:	3879647346D0F871D353A6BF206E44CD
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",3879647346D0F871D353A6BF206E44CD"
+msgid "Voice"
+msgstr "Voice"
+
+#. Key:	396ADA5842D619E28BE89FABC34B6A25
+#. SourceLocation:	/Game/Voice/MainMenu.MainMenu_C:WidgetTree.IP-EditableText.Text
+#: /Game/Voice/MainMenu.MainMenu_C:WidgetTree.IP-EditableText.Text
+msgctxt ",396ADA5842D619E28BE89FABC34B6A25"
+msgid "217.65.3.5:7777"
+msgstr "217.65.3.5:7777"
+
+#. Key:	3A49A6C94C3BA44E3852F7852743C7B5
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_783.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_783.Text
+msgctxt ",3A49A6C94C3BA44E3852F7852743C7B5"
+msgid "Post Processing"
+msgstr "Post Processing"
+
+#. Key:	3B8E2606435A96B52B8EBA845952FE33
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_177.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_177.Text
+msgctxt ",3B8E2606435A96B52B8EBA845952FE33"
+msgid "Resoltution Scale"
+msgstr "Resoltution Scale"
+
+#. Key:	3EEF7C4F4D8DA7AF9631DDBADFB8E5B9
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(0).ShadowCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(0).ShadowCommands
+msgctxt ",3EEF7C4F4D8DA7AF9631DDBADFB8E5B9"
+msgid "sg.ShadowQuality 0"
+msgstr "sg.ShadowQuality 0"
+
+#. Key:	40E92B574C10F0802FBDBDBB6E3B757E
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1001.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1001.Text
+msgctxt ",40E92B574C10F0802FBDBDBB6E3B757E"
+msgid "99"
+msgstr "99"
+
+#. Key:	43E131EE4029AAB5B134B1A0A0F3D1AF
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_367.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_367.Text
+msgctxt ",43E131EE4029AAB5B134B1A0A0F3D1AF"
+msgid "Video"
+msgstr "Video"
+
+#. Key:	4405C1AB437A7B287959E4974E29F0E1
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_4.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",4405C1AB437A7B287959E4974E29F0E1"
+msgid "%"
+msgstr "%"
+
+#. Key:	4420EFE449DBCB91F8C191A88B4419EC
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_0.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",4420EFE449DBCB91F8C191A88B4419EC"
+msgid "List of current players"
+msgstr "List of current players"
+
+#. Key:	443E3F1241B931D3FE2C47A000CABA1F
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1002.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1002.Text
+msgctxt ",443E3F1241B931D3FE2C47A000CABA1F"
+msgid " : "
+msgstr " : "
+
+#. Key:	45D64CB04803DFB1FE4E95857B9C61C7
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(2).GraphicsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(2).GraphicsCommands
+msgctxt ",45D64CB04803DFB1FE4E95857B9C61C7"
+msgid "r.ScreenPercentage 75"
+msgstr "r.ScreenPercentage 75"
+
+#. Key:	478B89904DF40052DD800DB00BF2CFCD
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(0).FPSSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(0).FPSSettings
+msgctxt ",478B89904DF40052DD800DB00BF2CFCD"
+msgid "15Hz"
+msgstr "15Hz"
+
+#. Key:	4875B8484F33FF0D0D54B09A075107FB
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(3).EffectsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(3).EffectsCommands
+msgctxt ",4875B8484F33FF0D0D54B09A075107FB"
+msgid "sg.EffectsQuality 3"
+msgstr "sg.EffectsQuality 3"
+
+#. Key:	4989B35349AC2745D8CB7E8EFEB50539
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_791.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_791.Text
+msgctxt ",4989B35349AC2745D8CB7E8EFEB50539"
+msgid "Anti-Aliasing"
+msgstr "Anti-Aliasing"
+
+#. Key:	4E4ABF714F52181B043456866D9B3BF0
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_998.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_998.Text
+msgctxt ",4E4ABF714F52181B043456866D9B3BF0"
+msgid "Level 999"
+msgstr "Level 999"
+
+#. Key:	4E712707475AE2085FE0DCA96DCCA68E
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(3).PPCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(3).PPCommands
+msgctxt ",4E712707475AE2085FE0DCA96DCCA68E"
+msgid "sg.PostProcessQuality 3"
+msgstr "sg.PostProcessQuality 3"
+
+#. Key:	4E996554483A6AB31C2691AC68AC011D
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(0).MainSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(0).MainSettings
+msgctxt ",4E996554483A6AB31C2691AC68AC011D"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	538209954442BAE55E834DB00B771CCF
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(0).PPCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(0).PPCommands
+msgctxt ",538209954442BAE55E834DB00B771CCF"
+msgid "sg.PostProcessQuality 0"
+msgstr "sg.PostProcessQuality 0"
+
+#. Key:	53DA44EE4BCD9E5F3C52249AE20AEC53
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_155.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_155.Text
+msgctxt ",53DA44EE4BCD9E5F3C52249AE20AEC53"
+msgid "Exit Game ?"
+msgstr "Exit Game ?"
+
+#. Key:	543F6FB54E856DC02A278398E155EAFC
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_369.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_369.Text
+msgctxt ",543F6FB54E856DC02A278398E155EAFC"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	543F827E4AFFC1D941E649A12876C76A
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(1).PPCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(1).PPCommands
+msgctxt ",543F827E4AFFC1D941E649A12876C76A"
+msgid "sg.PostProcessQuality 1"
+msgstr "sg.PostProcessQuality 1"
+
+#. Key:	544A1AE14482EF557CEB1DADEA7D9DDA
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(1).EffectsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(1).EffectsCommands
+msgctxt ",544A1AE14482EF557CEB1DADEA7D9DDA"
+msgid "sg.EffectsQuality 1"
+msgstr "sg.EffectsQuality 1"
+
+#. Key:	54ADB51B4FAA7FA6EB2F03B02567207F
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_793.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_793.Text
+msgctxt ",54ADB51B4FAA7FA6EB2F03B02567207F"
+msgid "Shadows"
+msgstr "Shadows"
+
+#. Key:	55F5B136430026CB2337A78D118D9E23
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicNoiseGate.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicNoiseGate.Text
+msgctxt ",55F5B136430026CB2337A78D118D9E23"
+msgid "Mic Noise Gate"
+msgstr "Mic Noise Gate"
+
+#. Key:	55FE68304AF8371D342B38A1EADA8351
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(2).FPSSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(2).FPSSettings
+msgctxt ",55FE68304AF8371D342B38A1EADA8351"
+msgid "60Hz"
+msgstr "60Hz"
+
+#. Key:	56FEF3ED4A6827C680C9459968AB9197
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_75.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_75.Text
+msgctxt ",56FEF3ED4A6827C680C9459968AB9197"
+msgid "SPACESHIP"
+msgstr "SPACESHIP"
+
+#. Key:	58F4FCD64D3A324B3BFFBDB8EF780057
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_5.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",58F4FCD64D3A324B3BFFBDB8EF780057"
+msgid "Connect to Server"
+msgstr "Connect to Server"
+
+#. Key:	59D2210A49885296B81FCC98E7C0AFBD
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicNoiseRelease.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicNoiseRelease.Text
+msgctxt ",59D2210A49885296B81FCC98E7C0AFBD"
+msgid "Mic Noise Release"
+msgstr "Mic Noise Release"
+
+#. Key:	5A7617E64EEE7F86570534A9CB7354F4
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_1186.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_1186.Text
+msgctxt ",5A7617E64EEE7F86570534A9CB7354F4"
+msgid "0.02"
+msgstr "0.02"
+
+#. Key:	5B12E3A8434542E5634775B33ECF608D
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.NoiseGateText.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.NoiseGateText.Text
+msgctxt ",5B12E3A8434542E5634775B33ECF608D"
+msgid "0,01"
+msgstr "0,01"
+
+#. Key:	5CCFA4D64876063FEE88D4ACA7053505
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.InputGainTB.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.InputGainTB.Text
+msgctxt ",5CCFA4D64876063FEE88D4ACA7053505"
+msgid "1,00"
+msgstr "1,00"
+
+#. Key:	5D573D3245137010C7DA9781225268AD
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(1).GraphicsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(1).GraphicsCommands
+msgctxt ",5D573D3245137010C7DA9781225268AD"
+msgid "r.ScreenPercentage 50"
+msgstr "r.ScreenPercentage 50"
+
+#. Key:	5ECB148D4AB7885C1A64918C8598428E
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_915.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_915.Text
+msgctxt ",5ECB148D4AB7885C1A64918C8598428E"
+msgid "667"
+msgstr "667"
+
+#. Key:	5ED5107E4433AF5E3CCA2F97C798AED9
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.VoiceTB.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.VoiceTB.Text
+msgctxt ",5ED5107E4433AF5E3CCA2F97C798AED9"
+msgid "0,50"
+msgstr "0,50"
+
+#. Key:	5F9116F947B50794BDFF6EBDCB55F3E8
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_5.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",5F9116F947B50794BDFF6EBDCB55F3E8"
+msgid "Connect to Server"
+msgstr "Connect to Server"
+
+#. Key:	6265BC974B6881AEF528048AFC58545C
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_285.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_285.Text
+msgctxt ",6265BC974B6881AEF528048AFC58545C"
+msgid "Mic Threshold 0.02"
+msgstr "Mic Threshold 0.02"
+
+#. Key:	6372F45B46F1517E72729C89C1B8887C
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(3).AACommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(3).AACommands
+msgctxt ",6372F45B46F1517E72729C89C1B8887C"
+msgid "r.PostProcessAAQuality 3"
+msgstr "r.PostProcessAAQuality 3"
+
+#. Key:	645B71D6472FD7DC9229B492EE69D8C1
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(1).PPCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(1).PPCommands
+msgctxt ",645B71D6472FD7DC9229B492EE69D8C1"
+msgid "sg.PostProcessQuality 1"
+msgstr "sg.PostProcessQuality 1"
+
+#. Key:	6529835242D510CC439D2A8DD304930D
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_911.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_911.Text
+msgctxt ",6529835242D510CC439D2A8DD304930D"
+msgid "%"
+msgstr "%"
+
+#. Key:	6564335040E590474CA8A4AE1B779C9E
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1001.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1001.Text
+msgctxt ",6564335040E590474CA8A4AE1B779C9E"
+msgid "99"
+msgstr "99"
+
+#. Key:	6674D1254606C52BF52C07B17FD29C82
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(1).FPSCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(1).FPSCommands
+msgctxt ",6674D1254606C52BF52C07B17FD29C82"
+msgid "t.MaxFPS 30"
+msgstr "t.MaxFPS 30"
+
+#. Key:	686F337049CEC632BA117F9F8FDF5BDB
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(3).FPSSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(3).FPSSettings
+msgctxt ",686F337049CEC632BA117F9F8FDF5BDB"
+msgid "144Hz"
+msgstr "144Hz"
+
+#. Key:	69176C834445E1FBA4684183D0B535DB
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_155.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_155.Text
+msgctxt ",69176C834445E1FBA4684183D0B535DB"
+msgid "Exit Game ?"
+msgstr "Exit Game ?"
+
+#. Key:	698496914C5201BE02E0C99B7AE58AA6
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",698496914C5201BE02E0C99B7AE58AA6"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	6C25448D4F82F54CEDBF708A47034D20
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",6C25448D4F82F54CEDBF708A47034D20"
+msgid "Close"
+msgstr "Close"
+
+#. Key:	6E2065804A6F64D4E5E990BCAB45E36F
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_369.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_369.Text
+msgctxt ",6E2065804A6F64D4E5E990BCAB45E36F"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	6F9680D6428A729C05F56BB9C4378618
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(2).PPCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(2).PPCommands
+msgctxt ",6F9680D6428A729C05F56BB9C4378618"
+msgid "sg.PostProcessQuality 2"
+msgstr "sg.PostProcessQuality 2"
+
+#. Key:	706E3D444044AAA90BA8C7976AB4C35B
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_913.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_913.Text
+msgctxt ",706E3D444044AAA90BA8C7976AB4C35B"
+msgid "667"
+msgstr "667"
+
+#. Key:	72A9F03E4FE6693CE252A187A4C7886C
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_911.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_911.Text
+msgctxt ",72A9F03E4FE6693CE252A187A4C7886C"
+msgid "%"
+msgstr "%"
+
+#. Key:	7694B0054BE1B62B6D5FA098BEB00C13
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_795.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_795.Text
+msgctxt ",7694B0054BE1B62B6D5FA098BEB00C13"
+msgid "Effects"
+msgstr "Effects"
+
+#. Key:	77FDAB0844846420DA9C2CB4214D2404
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_355.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_355.Text
+msgctxt ",77FDAB0844846420DA9C2CB4214D2404"
+msgid "Level 01"
+msgstr "Level 01"
+
+#. Key:	78DFFBF9403FE542BCCD84906C4EE9A3
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.AttenunationTB.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.AttenunationTB.Text
+msgctxt ",78DFFBF9403FE542BCCD84906C4EE9A3"
+msgid "Override Attetuation"
+msgstr "Override Attetuation"
+
+#. Key:	7A405456477D42AF08C9C2933A40199D
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(0).GraphicsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(0).GraphicsCommands
+msgctxt ",7A405456477D42AF08C9C2933A40199D"
+msgid "r.ScreenPercentage 25"
+msgstr "r.ScreenPercentage 25"
+
+#. Key:	7B1885124A238FCBA997C3AD13A5633F
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(2).AACommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(2).AACommands
+msgctxt ",7B1885124A238FCBA997C3AD13A5633F"
+msgid "r.PostProcessAAQuality 2"
+msgstr "r.PostProcessAAQuality 2"
+
+#. Key:	7B741D1345E4720828D560B187001951
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_177.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_177.Text
+msgctxt ",7B741D1345E4720828D560B187001951"
+msgid "Resoltution Scale"
+msgstr "Resoltution Scale"
+
+#. Key:	80080A574E94C4DD15BBEAA36562AA98
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.InputGainText.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.InputGainText.Text
+msgctxt ",80080A574E94C4DD15BBEAA36562AA98"
+msgid "1,00"
+msgstr "1,00"
+
+#. Key:	81795DD44B2AEB646FE8B0860252F2BD
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_913.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_913.Text
+msgctxt ",81795DD44B2AEB646FE8B0860252F2BD"
+msgid "667"
+msgstr "667"
+
+#. Key:	81B8D36F445340C826A2F1B91BAFAE7E
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_352.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_352.Text
+msgctxt ",81B8D36F445340C826A2F1B91BAFAE7E"
+msgid "Cancel"
+msgstr "Cancel"
+
+#. Key:	849A7368421BCF4EEA9776BD64B2842C
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(3).GraphicsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(3).GraphicsCommands
+msgctxt ",849A7368421BCF4EEA9776BD64B2842C"
+msgid "r.ScreenPercentage 100"
+msgstr "r.ScreenPercentage 100"
+
+#. Key:	8554B8CF4A391F78D3DB8EBC8A70AA75
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(0).ShadowCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(0).ShadowCommands
+msgctxt ",8554B8CF4A391F78D3DB8EBC8A70AA75"
+msgid "sg.ShadowQuality 0"
+msgstr "sg.ShadowQuality 0"
+
+#. Key:	8B3B7C394B3C22AB502AC89A509E9685
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(1).ShadowCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(1).ShadowCommands
+msgctxt ",8B3B7C394B3C22AB502AC89A509E9685"
+msgid "sg.ShadowQuality 1"
+msgstr "sg.ShadowQuality 1"
+
+#. Key:	8E9A566D426C14090AF94E805AEB8F46
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(3).GraphicsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.GraphicsCommands(3).GraphicsCommands
+msgctxt ",8E9A566D426C14090AF94E805AEB8F46"
+msgid "r.ScreenPercentage 100"
+msgstr "r.ScreenPercentage 100"
+
+#. Key:	90CA934247CC8343A4FCD3AF746AC8FA
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_6.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",90CA934247CC8343A4FCD3AF746AC8FA"
+msgid "Noise Gate Threshold 0.01"
+msgstr "Noise Gate Threshold 0.01"
+
+#. Key:	91B515BF43E86ED01E6E48BC7C6A1D1A
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_354.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_354.Text
+msgctxt ",91B515BF43E86ED01E6E48BC7C6A1D1A"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	9294681145F8D12EB783BAB00ABA7D0D
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(3).ShadowCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(3).ShadowCommands
+msgctxt ",9294681145F8D12EB783BAB00ABA7D0D"
+msgid "sg.ShadowQuality 3"
+msgstr "sg.ShadowQuality 3"
+
+#. Key:	93E3782041740D8FDFB9598ED4605A35
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.ThresholdText.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.ThresholdText.Text
+msgctxt ",93E3782041740D8FDFB9598ED4605A35"
+msgid "0,02"
+msgstr "0,02"
+
+#. Key:	9400D41B4FE737A49C9A239092C2E683
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(1).FPSSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSSettings(1).FPSSettings
+msgctxt ",9400D41B4FE737A49C9A239092C2E683"
+msgid "30Hz"
+msgstr "30Hz"
+
+#. Key:	95A3CD4047956A90C87602947955F417
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_75.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_75.Text
+msgctxt ",95A3CD4047956A90C87602947955F417"
+msgid "SPACESHIP"
+msgstr "SPACESHIP"
+
+#. Key:	95D65B124DC58DD07C22E4ACE8E67FC2
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_16.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_16.Text
+msgctxt ",95D65B124DC58DD07C22E4ACE8E67FC2"
+msgid "Override Attetunation Control"
+msgstr "Override Attetunation Control"
+
+#. Key:	95F5D372423310914CDA8585F93C7BA5
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1000.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_1000.Text
+msgctxt ",95F5D372423310914CDA8585F93C7BA5"
+msgid "LEVEL "
+msgstr "LEVEL "
+
+#. Key:	9996152144D7977E7F2C628288A60EF5
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(3).PPCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(3).PPCommands
+msgctxt ",9996152144D7977E7F2C628288A60EF5"
+msgid "sg.PostProcessQuality 3"
+msgstr "sg.PostProcessQuality 3"
+
+#. Key:	9A3B64CB45ED1A87944768B14899FB50
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_13.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_13.Text
+msgctxt ",9A3B64CB45ED1A87944768B14899FB50"
+msgid "Noise Gate Control"
+msgstr "Noise Gate Control"
+
+#. Key:	9F65F4C04CCC1B1B02B78EABBAC312A2
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(3).MainSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(3).MainSettings
+msgctxt ",9F65F4C04CCC1B1B02B78EABBAC312A2"
+msgid "Ultra"
+msgstr "Ultra"
+
+#. Key:	A09FD0674257D74260F6CAB77EE7EC7B
+#. SourceLocation:	/Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock_72.Text
+#: /Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock_72.Text
+msgctxt ",A09FD0674257D74260F6CAB77EE7EC7B"
+msgid "Connect to Server"
+msgstr "Connect to Server"
+
+#. Key:	A4FD09F24C7468511FD3F6BB9F4631B0
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicThresholdTB.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicThresholdTB.Text
+msgctxt ",A4FD09F24C7468511FD3F6BB9F4631B0"
+msgid "Mic Threshold"
+msgstr "Mic Threshold"
+
+#. Key:	A60E72754DEFFA273AB2648631E17728
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_8.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_8.Text
+msgctxt ",A60E72754DEFFA273AB2648631E17728"
+msgid "PlayerName"
+msgstr "PlayerName"
+
+#. Key:	A7291A694608026CCAAB86BC83EB28CB
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(0).PPCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.PPCommands(0).PPCommands
+msgctxt ",A7291A694608026CCAAB86BC83EB28CB"
+msgid "sg.PostProcessQuality 0"
+msgstr "sg.PostProcessQuality 0"
+
+#. Key:	A9AC01424F07EEF874333693070E4391
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_317.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_317.Text
+msgctxt ",A9AC01424F07EEF874333693070E4391"
+msgid "Change Device"
+msgstr "Change Device"
+
+#. Key:	AB76783C47038EED49521995C466413C
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",AB76783C47038EED49521995C466413C"
+msgid "Voice"
+msgstr "Voice"
+
+#. Key:	AFDC2756444E764CBFE34F9CC52957E0
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(1).EffectsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(1).EffectsCommands
+msgctxt ",AFDC2756444E764CBFE34F9CC52957E0"
+msgid "sg.EffectsQuality 1"
+msgstr "sg.EffectsQuality 1"
+
+#. Key:	B0C2BB0141C1B450E980C9A475FE3D79
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(2).MainSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(2).MainSettings
+msgctxt ",B0C2BB0141C1B450E980C9A475FE3D79"
+msgid "High"
+msgstr "High"
+
+#. Key:	B1228B8E49A8063D3B263F87AECCE2EB
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(2).ShadowCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(2).ShadowCommands
+msgctxt ",B1228B8E49A8063D3B263F87AECCE2EB"
+msgid "sg.ShadowQuality 2"
+msgstr "sg.ShadowQuality 2"
+
+#. Key:	B1A0CAD04C71D4976BCB91AF8EBC962F
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_11.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_11.Text
+msgctxt ",B1A0CAD04C71D4976BCB91AF8EBC962F"
+msgid "Mic Threshold Control"
+msgstr "Mic Threshold Control"
+
+#. Key:	B462444D4349900EC4216F96961F2934
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(0).EffectsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(0).EffectsCommands
+msgctxt ",B462444D4349900EC4216F96961F2934"
+msgid "sg.EffectsQuality 0"
+msgstr "sg.EffectsQuality 0"
+
+#. Key:	B64E70314C6146C1118F07A7C04912D6
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(2).ShadowCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.ShadowCommands(2).ShadowCommands
+msgctxt ",B64E70314C6146C1118F07A7C04912D6"
+msgid "sg.ShadowQuality 2"
+msgstr "sg.ShadowQuality 2"
+
+#. Key:	B76AC85B45F3B4A0C9A0038BB5031DED
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(1).ShadowCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(1).ShadowCommands
+msgctxt ",B76AC85B45F3B4A0C9A0038BB5031DED"
+msgid "sg.ShadowQuality 1"
+msgstr "sg.ShadowQuality 1"
+
+#. Key:	B7C9AC1B42613BCCAE1A4E8D307D474B
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_114.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_114.Text
+msgctxt ",B7C9AC1B42613BCCAE1A4E8D307D474B"
+msgid "Remove"
+msgstr "Remove"
+
+#. Key:	B833C2014FEF189F33DBBEA64623CDAE
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(0).FPSCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.FPSCommands(0).FPSCommands
+msgctxt ",B833C2014FEF189F33DBBEA64623CDAE"
+msgid "t.MaxFPS 15"
+msgstr "t.MaxFPS 15"
+
+#. Key:	B84C575F4B914DF600ED8FAE7AD88A3E
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicInputGain.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.MicInputGain.Text
+msgctxt ",B84C575F4B914DF600ED8FAE7AD88A3E"
+msgid "Mic Input Gain"
+msgstr "Mic Input Gain"
+
+#. Key:	B8A865354B294084BA8B1E8477F35E9C
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_795.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_795.Text
+msgctxt ",B8A865354B294084BA8B1E8477F35E9C"
+msgid "Effects"
+msgstr "Effects"
+
+#. Key:	BC21C03E419CC3080C7F4598360296E6
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",BC21C03E419CC3080C7F4598360296E6"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	BC46208B4C2E8F2ECE39F08B73D0295E
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_791.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_791.Text
+msgctxt ",BC46208B4C2E8F2ECE39F08B73D0295E"
+msgid "Anti-Aliasing"
+msgstr "Anti-Aliasing"
+
+#. Key:	BCA6A91E48E7999C8F872999D914B54F
+#. SourceLocation:	/Game/Voice/WS_Players.WS_Players_C:WidgetTree.TextBlock_2.Text
+#: /Game/Voice/WS_Players.WS_Players_C:WidgetTree.TextBlock_2.Text
+msgctxt ",BCA6A91E48E7999C8F872999D914B54F"
+msgid "PlayerName"
+msgstr "PlayerName"
+
+#. Key:	BEE683D24674C724831A9DBB6BBB9B79
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_10.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_10.Text
+msgctxt ",BEE683D24674C724831A9DBB6BBB9B79"
+msgid "Override Attetunation"
+msgstr "Override Attetunation"
+
+#. Key:	C10D08444FDA5255061D8C92E1FAB0DF
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1000.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1000.Text
+msgctxt ",C10D08444FDA5255061D8C92E1FAB0DF"
+msgid "LEVEL "
+msgstr "LEVEL "
+
+#. Key:	C160ABBC4E30F0ABF4C5F6A89A20C40C
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_14.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_14.Text
+msgctxt ",C160ABBC4E30F0ABF4C5F6A89A20C40C"
+msgid "Noise Release Time Control"
+msgstr "Noise Release Time Control"
+
+#. Key:	C26E3BA34BBD4BA1878204AA8B0B8DD9
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(0).AACommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.AACommands(0).AACommands
+msgctxt ",C26E3BA34BBD4BA1878204AA8B0B8DD9"
+msgid "r.PostProcessAAQuality 0"
+msgstr "r.PostProcessAAQuality 0"
+
+#. Key:	C31415B940773AA517CD1788714D3D80
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(3).FPSSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(3).FPSSettings
+msgctxt ",C31415B940773AA517CD1788714D3D80"
+msgid "144Hz"
+msgstr "144Hz"
+
+#. Key:	C316A98E4C5F5B07796260AF40264904
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(2).MainSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(2).MainSettings
+msgctxt ",C316A98E4C5F5B07796260AF40264904"
+msgid "High"
+msgstr "High"
+
+#. Key:	C5DA26EF48EFF64432066C89D4155A13
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(0).GraphicsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.GraphicsCommands(0).GraphicsCommands
+msgctxt ",C5DA26EF48EFF64432066C89D4155A13"
+msgid "r.ScreenPercentage 25"
+msgstr "r.ScreenPercentage 25"
+
+#. Key:	C62E98024C2B857514A8FDB7B76555A9
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_998.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_998.Text
+msgctxt ",C62E98024C2B857514A8FDB7B76555A9"
+msgid "Level 999"
+msgstr "Level 999"
+
+#. Key:	C73918524ED6DCA2971AF3B7453A63E8
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_7.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",C73918524ED6DCA2971AF3B7453A63E8"
+msgid "Noise Release Time 0.2"
+msgstr "Noise Release Time 0.2"
+
+#. Key:	C74004074F41384B9933A5A5FA1C1D0A
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(2).PPCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.PPCommands(2).PPCommands
+msgctxt ",C74004074F41384B9933A5A5FA1C1D0A"
+msgid "sg.PostProcessQuality 2"
+msgstr "sg.PostProcessQuality 2"
+
+#. Key:	C79427684CCD53AAC9C8738A0369D5AC
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1002.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1002.Text
+msgctxt ",C79427684CCD53AAC9C8738A0369D5AC"
+msgid " : "
+msgstr " : "
+
+#. Key:	C994BCC14BEB22C94B49F69E3EA03531
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(0).FPSCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(0).FPSCommands
+msgctxt ",C994BCC14BEB22C94B49F69E3EA03531"
+msgid "t.MaxFPS 15"
+msgstr "t.MaxFPS 15"
+
+#. Key:	CA4C1CC541A3DB73896E84A52A6EDD60
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_4.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",CA4C1CC541A3DB73896E84A52A6EDD60"
+msgid "Toggle Push to Talk: P"
+msgstr "Toggle Push to Talk: P"
+
+#. Key:	CB74FD7A4DC095CFF99E608385AE074A
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_367.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_367.Text
+msgctxt ",CB74FD7A4DC095CFF99E608385AE074A"
+msgid "Video"
+msgstr "Video"
+
+#. Key:	CB848C89492AD9DD5870A98809AFB5E3
+#. SourceLocation:	/Game/Voice/SimpleOverlay.SimpleOverlay_C:WidgetTree.TextBlock_109.Text
+#: /Game/Voice/SimpleOverlay.SimpleOverlay_C:WidgetTree.TextBlock_109.Text
+msgctxt ",CB848C89492AD9DD5870A98809AFB5E3"
+msgid "Microphone Level"
+msgstr "Microphone Level"
+
+#. Key:	CC3EBC5E48243FE5C05A3FBF98542F33
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(2).AACommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(2).AACommands
+msgctxt ",CC3EBC5E48243FE5C05A3FBF98542F33"
+msgid "r.PostProcessAAQuality 2"
+msgstr "r.PostProcessAAQuality 2"
+
+#. Key:	CFB829BA4EF8168600EFC8AC52F5AB37
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.MusicTB.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.MusicTB.Text
+msgctxt ",CFB829BA4EF8168600EFC8AC52F5AB37"
+msgid "0,50"
+msgstr "0,50"
+
+#. Key:	D2E103984C0347A84F52C784434FD73D
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_352.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_352.Text
+msgctxt ",D2E103984C0347A84F52C784434FD73D"
+msgid "Cancel"
+msgstr "Cancel"
+
+#. Key:	D59463834DF24D147620A2AC88DA13E5
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(3).FPSCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(3).FPSCommands
+msgctxt ",D59463834DF24D147620A2AC88DA13E5"
+msgid "t.MaxFPS 144"
+msgstr "t.MaxFPS 144"
+
+#. Key:	D5EBF07F42FEB5EFDADDBAB09D508DFA
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_354.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_354.Text
+msgctxt ",D5EBF07F42FEB5EFDADDBAB09D508DFA"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	D623C70340C35004685AE1A354D3C9E9
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(2).EffectsCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.EffectsCommands(2).EffectsCommands
+msgctxt ",D623C70340C35004685AE1A354D3C9E9"
+msgid "sg.EffectsQuality 2"
+msgstr "sg.EffectsQuality 2"
+
+#. Key:	D9AE3CB94DEFC1E5A437F2ACDB0D0BD4
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",D9AE3CB94DEFC1E5A437F2ACDB0D0BD4"
+msgid "Enable Mouse: Q"
+msgstr "Enable Mouse: Q"
+
+#. Key:	DA63AD5B4D68AA84B731CBBD43639926
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(1).FPSCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSCommands(1).FPSCommands
+msgctxt ",DA63AD5B4D68AA84B731CBBD43639926"
+msgid "t.MaxFPS 30"
+msgstr "t.MaxFPS 30"
+
+#. Key:	DAAAD3EB462C1A7ED00DE4A1789177B1
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(1).MainSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(1).MainSettings
+msgctxt ",DAAAD3EB462C1A7ED00DE4A1789177B1"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	DB6872EF4677FFB52B9F798640DCB038
+#. SourceLocation:	/Game/Voice/WS_Players.Default__WS_Players_C.Username
+#: /Game/Voice/WS_Players.Default__WS_Players_C.Username
+msgctxt ",DB6872EF4677FFB52B9F798640DCB038"
+msgid "Player"
+msgstr "Player"
+
+#. Key:	DC4D59ED45746D129BCE32962DE7BF7E
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(3).ShadowCommands
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.ShadowCommands(3).ShadowCommands
+msgctxt ",DC4D59ED45746D129BCE32962DE7BF7E"
+msgid "sg.ShadowQuality 3"
+msgstr "sg.ShadowQuality 3"
+
+#. Key:	DD68932A44DC6355A7816283B39DDAE3
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_151.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_151.Text
+msgctxt ",DD68932A44DC6355A7816283B39DDAE3"
+msgid "Change Team: C"
+msgstr "Change Team: C"
+
+#. Key:	DF77E3BA451E1417C60B15B23C3CB7BD
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(3).EffectsCommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.EffectsCommands(3).EffectsCommands
+msgctxt ",DF77E3BA451E1417C60B15B23C3CB7BD"
+msgid "sg.EffectsQuality 3"
+msgstr "sg.EffectsQuality 3"
+
+#. Key:	E5CA9AB7435B52D567547CBCF122669B
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(1).MainSettings
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.Default__InGameWidget_RefinedMenu_C.MainSettings(1).MainSettings
+msgctxt ",E5CA9AB7435B52D567547CBCF122669B"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	E6A12D3F4EBF6A5AF47D5AA8E9CB96C8
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_783.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_783.Text
+msgctxt ",E6A12D3F4EBF6A5AF47D5AA8E9CB96C8"
+msgid "Post Processing"
+msgstr "Post Processing"
+
+#. Key:	E93B32554EA507471A31019E3659E57F
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_12.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_12.Text
+msgctxt ",E93B32554EA507471A31019E3659E57F"
+msgid "Mic Input Gain Control"
+msgstr "Mic Input Gain Control"
+
+#. Key:	ED9DB6B6444190B80068C3A5D28EAACC
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.NoiseGateTB.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.NoiseGateTB.Text
+msgctxt ",ED9DB6B6444190B80068C3A5D28EAACC"
+msgid "0,01"
+msgstr "0,01"
+
+#. Key:	EDB2578F47ED4B1E752DFFBD9907F66A
+#. SourceLocation:	/Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_15.Text
+#: /Game/Voice/OptionsControl.OptionsControl_C:WidgetTree.TextBlock_15.Text
+msgctxt ",EDB2578F47ED4B1E752DFFBD9907F66A"
+msgid "Music Volume Cont"
+msgstr "Music Volume Cont"
+
+#. Key:	EE391E32402374C815E8CFBD64D6ED37
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",EE391E32402374C815E8CFBD64D6ED37"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	F64A7129444A1EAE075B8791E12E39F6
+#. SourceLocation:	/Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock_223.Text
+#: /Game/Voice/MainMenu.MainMenu_C:WidgetTree.TextBlock_223.Text
+msgctxt ",F64A7129444A1EAE075B8791E12E39F6"
+msgid "Quit Game"
+msgstr "Quit Game"
+
+#. Key:	F6B5F62240EBEC9779B6D68EB4E87C89
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(1).FPSSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.FPSSettings(1).FPSSettings
+msgctxt ",F6B5F62240EBEC9779B6D68EB4E87C89"
+msgid "30Hz"
+msgstr "30Hz"
+
+#. Key:	F7446C214FDCB6ADDA22529D43A71495
+#. SourceLocation:	/Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock.Text
+#: /Game/Voice/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",F7446C214FDCB6ADDA22529D43A71495"
+msgid "Toggle Radio: T"
+msgstr "Toggle Radio: T"
+
+#. Key:	F809E49B44E16685BB1FD4B28C71A348
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(3).MainSettings
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.MainSettings(3).MainSettings
+msgctxt ",F809E49B44E16685BB1FD4B28C71A348"
+msgid "Ultra"
+msgstr "Ultra"
+
+#. Key:	FACF4B33421AB693AB1DEAB7C900FDA4
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(1).AACommands
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Default__Widget_RefinedMenu_C.AACommands(1).AACommands
+msgctxt ",FACF4B33421AB693AB1DEAB7C900FDA4"
+msgid "r.PostProcessAAQuality 1"
+msgstr "r.PostProcessAAQuality 1"
+
+#. Key:	FBBA35A14E21AC04D30AAFB52D1EC9CC
+#. SourceLocation:	/Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_0.Text
+#: /Game/Menu/Widgets/Widget_RefinedMenu.Widget_RefinedMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",FBBA35A14E21AC04D30AAFB52D1EC9CC"
+msgid "Singleplayer"
+msgstr "Singleplayer"
+
+#. Key:	FCE4A77E4CC83E402613F4830693BE56
+#. SourceLocation:	/Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_797.Text
+#: /Game/Menu/Widgets/InGameWidget_RefinedMenu.InGameWidget_RefinedMenu_C:WidgetTree.TextBlock_797.Text
+msgctxt ",FCE4A77E4CC83E402613F4830693BE56"
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
