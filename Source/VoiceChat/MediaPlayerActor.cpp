@@ -23,7 +23,7 @@ AMediaPlayerActor::AMediaPlayerActor()
 void AMediaPlayerActor::BeginPlay()
 {
 	Super::BeginPlay();
-	MakeVideoPlayer();
+	//MakeVideoPlayer();
 
 }
 
@@ -63,9 +63,14 @@ void AMediaPlayerActor::MakeVideoPlayer()
 		
 		ImgMediaSource->IsPathRelativeToProjectRoot = true;
 		ImgMediaSource->SetSequencePath(Path);
+		ImgMediaSource->FrameRateOverride.Numerator=1;
+		ImgMediaSource->bFillGapsInSequence=false;
 		
 		MediaPlayer->SetLooping(true);
 		MediaPlayer->OpenSource(ImgMediaSource);
+		
+		//MediaPlayer->Play();
+		
 
 		//UFileMediaSource* MediaSource = NewObject<UFileMediaSource>();
 		//MediaSource->FilePath=Path;
@@ -76,5 +81,22 @@ void AMediaPlayerActor::MakeVideoPlayer()
 		//Sound->RegisterComponent();
 	}
 	
+}
+
+void AMediaPlayerActor::SetPlay()
+{
+	MediaPlayer->Play();
+}
+
+void AMediaPlayerActor::SetPause()
+{
+	
+	MediaPlayer->Pause();
+}
+
+void AMediaPlayerActor::NextSlide()
+{
+	MediaPlayer->Play();
+	GetWorldTimerManager().SetTimer(TimerHandle,this,&ThisClass::SetPause,0.033f,false,0.033f);
 }
 

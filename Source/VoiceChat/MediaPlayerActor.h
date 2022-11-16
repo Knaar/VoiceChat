@@ -21,7 +21,17 @@ public:
 	UPROPERTY(EditAnywhere)
 		UMediaPlayer* MediaPlayer;
 
+	UFUNCTION(BlueprintCallable)
 	void MakeVideoPlayer();
 
+	UFUNCTION(BlueprintCallable)
+	void SetPlay();
+	
+	UFUNCTION(BlueprintCallable)
+	void SetPause();
 
+	UFUNCTION(BlueprintCallable)
+	void NextSlide();
+
+	FTimerHandle TimerHandle;
 };
