@@ -63,7 +63,8 @@ void AMediaPlayerActor::MakeVideoPlayer()
 		
 		ImgMediaSource->IsPathRelativeToProjectRoot = true;
 		ImgMediaSource->SetSequencePath(Path);
-		ImgMediaSource->FrameRateOverride.Numerator=1;
+		
+		//ImgMediaSource->FrameRateOverride.Numerator=1000;
 		ImgMediaSource->bFillGapsInSequence=false;
 		
 		MediaPlayer->SetLooping(true);
@@ -94,9 +95,31 @@ void AMediaPlayerActor::SetPause()
 	MediaPlayer->Pause();
 }
 
+void AMediaPlayerActor::SetReverse()
+{
+	MediaPlayer->Rewind();
+	FrameIterator=0;
+	GetWorldTimerManager().SetTimer(TimerHandle,this,&ThisClass::SetPause,FrameRate,false,FrameRate);
+}
+
 void AMediaPlayerActor::NextSlide()
 {
+	UE_LOG(LogTemp,Warning,TEXT("NextSlide"));
+	
 	MediaPlayer->Play();
-	GetWorldTimerManager().SetTimer(TimerHandle,this,&ThisClass::SetPause,0.033f,false,0.033f);
+	
+	
+	if(FrameIterator==3)
+	{
+		FrameIterator=0;
+		GetWorldTimerManager().SetTimer(TimerHandle,this,&ThisClass::SetPause,FrameRate*2,false,FrameRate*2);
+		
+	}
+	else
+	{
+		FrameIterator++;
+		GetWorldTimerManager().SetTimer(TimerHandle,this,&ThisClass::SetPause,FrameRate,false,FrameRate);
+	}
+	
 }
 

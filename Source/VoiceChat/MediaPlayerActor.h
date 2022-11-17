@@ -19,7 +19,12 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere)
-		UMediaPlayer* MediaPlayer;
+	UMediaPlayer* MediaPlayer;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Settings")
+	float FrameRate=0.03f;
+
+	int32 FrameIterator=0;
 
 	UFUNCTION(BlueprintCallable)
 	void MakeVideoPlayer();
@@ -29,6 +34,9 @@ public:
 	
 	UFUNCTION(BlueprintCallable)
 	void SetPause();
+
+	UFUNCTION(BlueprintCallable)
+	void SetReverse();
 
 	UFUNCTION(BlueprintCallable)
 	void NextSlide();
