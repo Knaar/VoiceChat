@@ -22,6 +22,9 @@ public:
 	UMediaPlayer* MediaPlayer;
 
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Settings")
+	FString Path;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Settings")
 	float FrameRate=0.03f;
 
 	int32 FrameIterator=0;

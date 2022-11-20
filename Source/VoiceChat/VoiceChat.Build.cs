@@ -18,7 +18,9 @@ public class VoiceChat : ModuleRules
             "DesktopPlatform",
             "Slate",
             "SlateCore",
-            "ImgMedia" });
+            "ImgMedia",
+            "Niagara",
+		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

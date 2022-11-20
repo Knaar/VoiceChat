@@ -28,6 +28,6 @@ void UDeskWidget::Build()
 		{
 			Path = OutFiles[0];
 		}
-		Image->SetBrush()
+		//Image->SetBrush()
 	}
 }

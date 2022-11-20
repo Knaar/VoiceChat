@@ -39,7 +39,7 @@ void AMediaPlayerActor::MakeVideoPlayer()
 	
 	if (MediaPlayer)
 	{
-		FString Path;
+		//FString Path;
 
 		IDesktopPlatform* Platform = FDesktopPlatformModule::Get();
 		if (Platform)
@@ -61,7 +61,7 @@ void AMediaPlayerActor::MakeVideoPlayer()
 		}
 		UImgMediaSource* ImgMediaSource = NewObject<UImgMediaSource>();
 		
-		ImgMediaSource->IsPathRelativeToProjectRoot = true;
+		//ImgMediaSource->IsPathRelativeToProjectRoot = true;
 		ImgMediaSource->SetSequencePath(Path);
 		
 		//ImgMediaSource->FrameRateOverride.Numerator=1000;

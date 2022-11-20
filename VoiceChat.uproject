@@ -23,6 +23,11 @@
 			"Name": "EasyVoiceChat",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b204a1777cb34ff88bcc32bd9296c412"
+		},
+		{
+			"Name": "RealTimeImport",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5625d7b404e44200bb2f9cdb7dcf1c6a"
 		}
 	],
 	"TargetPlatforms": [
